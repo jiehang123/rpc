@@ -214,3 +214,8 @@ String result = helloService.hello("World"); // 3
 1. 注入 RpcProxy 对象
 2. 调用 RpcProxy 对象的 create 方法来创建 RPC 代理接口
 3. 调用 RPC 代理接口的方法，就像调用远程接口方法一样
+
+
+
+https://github.com/junjun888/simple-rpc  
+https://my.oschina.net/huangyong/blog/361751
